@@ -6,7 +6,7 @@ My simple Cartoon Rendering using OpenCV
 ## 실행화면
 ![사진원본](gear2.jpeg)
 ![연습코드](gear2_cartoon.jpg)
-![만화이미지로 변환](cgear2_output.jpeg)
+![만화이미지로 변환](gear2_output.jpeg)
 
 **나의 알고리즘으로 만화 같은 느낌이 잘 표현되는 이미지 데모**
 1. 선명한 윤곽선이 있는 이미지
